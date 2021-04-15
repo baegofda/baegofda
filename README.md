@@ -1,7 +1,6 @@
 ## Hi there 👋
 ### 💌<a href="mailto:akfncl217@daum.net">Contact</a>
 
- [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React)]
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=baegofda)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
