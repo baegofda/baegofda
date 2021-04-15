@@ -1,9 +1,9 @@
 ## Hi there 👋
   
-  <img src="https://github-readme-stats.vercel.app/api?username=baegofda"/>
-
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=baegofda"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=baegofda"/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
