@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### 💌<a href="mailto:akfncl217@daum.net">Contact</a>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=baegofda)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **baegofda/baegofda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
