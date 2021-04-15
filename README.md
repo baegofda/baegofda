@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
 </p>
 
-![뱃지출처](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+[Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 <br/>
 
