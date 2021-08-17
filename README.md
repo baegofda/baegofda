@@ -2,7 +2,7 @@
 
 <br/>
 
-<p align="center">
+<p style="display:flex;" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=baegofda"/>
   <img src="https://readmeplants.com/get?name=baegofda&planet=purpleMoon&plant=rainbowTree&nameTag=blackNameTag&ground=hill&background=black"/>
 </p>
