@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=baegofda"/>
+  [![readmeplants](https://readmeplants.com/get?name=baegofda&planet=purpleMoon&plant=rainbowTree&nameTag=blackNameTag&ground=hill&background=black)](https://github.com/devxb/readmeplants)
 </p>
 
 ### **Language**
