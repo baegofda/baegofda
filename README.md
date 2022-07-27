@@ -61,7 +61,7 @@
 <br/>
 <br/>
 
-<p align="center">💌 Contact &nbsp;<a href="mailto:akfncl217@daum.net">akfncl217@daum.net</a></p>
+<p align="center">💌 Contact &nbsp;<a href="mailto:baegofdao3o@gmail.com">baegofdao3o@gmail.com</a></p>
 
 <br/>
 
