@@ -31,36 +31,6 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </p>
 
-<br/>
-
-### **Back-End**
-
----
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-</p>
-
-<br/>
-
-### **Database**
-
----
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-<br/>
-<br/>
-
 <p align="center">💌 Contact &nbsp;<a href="mailto:baegofdao3o@gmail.com">baegofdao3o@gmail.com</a></p>
 
 <br/>
